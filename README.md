@@ -5,22 +5,12 @@ This repository is a collection of **data visualizations** created for various p
 
 ---
 
-## Contents
-The repository is organized into folders, each representing a specific project or theme. Here’s an overview of the key categories:
-
-1. **Work Projects**  
-   - Visualizations created for real-world business or research projects.
-   - Focus on clarity, precision, and actionable insights.
-   
-2. **For Fun**  
-   - Creative and experimental visualizations designed for personal learning or entertainment.
-   - Includes explorations of unusual datasets, artistic charts, or innovative techniques.
-
-3. **Thematic Explorations**  
-   - Visualizations grouped by themes such as:
-     - **Geographic Data**: Maps and spatial visualizations.
-     - **Time Series**: Dynamic visualizations of trends over time.
-     - **Categorical Data**: Bar charts, heatmaps, and more.
+## How to Explore
+1. Browse the folders to explore visualizations by project or theme.
+2. Each folder contains:
+   - The **code** used to generate the visualization (e.g., R scripts, Python notebooks).
+   - A preview or **image** of the visualization in .png.
+3. Open and run the scripts in your preferred environment to replicate or customize the visualizations.
 
 ---
 
@@ -36,15 +26,6 @@ The visualizations in this repository were created using a mix of tools and libr
   - `folium`: For interactive maps.
 - **Other Tools**:
   - Tools like Tableau.
-
----
-
-## How to Explore
-1. Browse the folders to explore visualizations by project or theme.
-2. Each folder contains:
-   - The **code** used to generate the visualization (e.g., R scripts, Python notebooks).
-   - A preview or **image** of the visualization in .png.
-3. Open and run the scripts in your preferred environment to replicate or customize the visualizations.
 
 ---
 

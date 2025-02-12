@@ -20,6 +20,7 @@ The visualizations in this repository were created using a mix of tools and libr
   - `ggplot2`: The go-to package for creating static and interactive visualizations.
   - `plotly`: For interactive charts and dashboards.
   - `sf`: For geospatial data visualization.
+  - `Shiny App`: Interactive Dashboards.
 - **Python**:
   - `matplotlib` and `seaborn`: For statistical and scientific visualizations.
   - `plotly` and `dash`: For interactive visualizations.

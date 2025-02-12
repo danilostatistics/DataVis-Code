@@ -1,0 +1,12 @@
+name: MissingPredictionPerformance
+title: MissingPredictionPerformance
+username: danilo-petti
+account: danilo-petti
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13979821
+bundleId: 9789389
+url: https://danilo-petti.shinyapps.io/MissingPredictionPerformance/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
